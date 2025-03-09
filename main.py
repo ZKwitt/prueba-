@@ -1,4 +1,4 @@
-rom openai import OpenAI
+from openai import OpenAI
  
 base_url = "<https://api.aimlapi.com/v1>"
  api_key = "d0d50f3916464355a79388520278a67c"
